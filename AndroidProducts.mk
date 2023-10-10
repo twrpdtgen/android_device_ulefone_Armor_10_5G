@@ -9,6 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_Armor_10_5G.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Armor_10_5G-user \
-    omni_Armor_10_5G-userdebug \
     omni_Armor_10_5G-eng
